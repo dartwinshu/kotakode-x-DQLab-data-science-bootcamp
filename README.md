@@ -18,7 +18,7 @@ Due to the large number of the tasks in each of the above module, this session w
 
 - **Making a Complete Table of Population Data (Python)**
 
-*Membuat grafik batang untuk menunjukkan distribusi jumlah penduduk pada setiap daerah yang ada dalam suatu negara*
+*Membuat grafik batang untuk menunjukkan distribusi jumlah penduduk pada setiap daerah yang ada dalam suatu negara dari file https://storage.googleapis.com/dqlab-dataset/penduduk_gender_head.csv*
 
 ![2](https://user-images.githubusercontent.com/88588162/129440819-101eebbc-d051-4917-a52f-70cb4f408f5a.png)
 
